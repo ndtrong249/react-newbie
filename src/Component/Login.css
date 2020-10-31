@@ -1,0 +1,3 @@
+.tooltip-danger > .tooltip > .tooltip-inner {
+  background-color: red;
+}
